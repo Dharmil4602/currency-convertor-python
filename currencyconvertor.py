@@ -2,7 +2,6 @@
 # buttons, labels, text boxes, etc. for our GUI Applications.
 # Tkinter is a Python module for creating GUI applications.
 
-from lib2to3.pytree import convert
 from tkinter import *
 class CurrencyConvertor: # Creat Class
     def __init__(self): #Here self is a variable which represents the instance of the object itself. __init__ special method in python which is to be declared in the class constructor.
